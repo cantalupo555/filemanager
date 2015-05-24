@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<module>
+    <name>File Manager</name>
+    <version>1.0</version>
+    <defaultcat>File Management</defaultcat>
+    <desc>File Manager is a web based tool that enables you to manage your Sentora Files the web.</desc>
+    <authorname>David L</authorname>
+    <authoremail>teddybugs@gmail.com</authoremail>
+    <authorurl>http://sentora.org/</authorurl>
+    <updateurl>http://store.sentora.org/version.xml</updateurl>
+</module>
