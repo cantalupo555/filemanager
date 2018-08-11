@@ -3,7 +3,7 @@
  *
  * Installer for File Manager Extplorer Module for Sentora 1.0.0
  * Version : 100
- * Author : Italo Cantalupo Lima - contato@lupohost.com
+ * Author : cantalupo555 - cantalupo@protonmail.com
  * Contribution : TGates
  * Suggestion : Me.B
  *
